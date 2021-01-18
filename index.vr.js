@@ -63,8 +63,7 @@ class WorldTour extends Component {
               }
             </View>
             :
-            <View>
-
+            <View style={styles.menu}>
             </View>
         }
       </View>
